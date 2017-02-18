@@ -1,2 +1,3 @@
 # SDC_2_Project_2_Kidnapped_Vehicle
-Implement a particle filter to take real-world data and localize a lost vehicle.
+* This project will start on March 2nd.  
+This module is also built with our partners at Mercedes-Benz, who employ cutting-edge localization techniques in their own autonomous vehicles. Implement and use foundational algorithms that every localization engineer needs to know.  
